@@ -3,3 +3,9 @@
 ## Project Overview
 Analyze retail sales data to improve business performance, customer experience, and profitability.
 
+## Problem Statement
+Lack of insights on:
+- Top products
+- Customer behaviour
+- Profit drivers
+- Delivery issues
