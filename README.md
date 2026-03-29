@@ -16,19 +16,12 @@ Lack of insights on:
 - Improve profitability
 - Optimize operations
 
-## Key Analysis
-- Sales trends
-- Customer segmentation
-- Product performance
-- Delivery analysis
-
-## Business Impact
-- Better decision-making
-- Increased revenue
-- Improved customer satisfaction
-- Operational efficiency
-
 <img width="863" height="561" alt="image" src="https://github.com/user-attachments/assets/ea46ffba-8ce7-48e3-874a-8bbb7338a3bc" />
+<img width="926" height="476" alt="image" src="https://github.com/user-attachments/assets/96abd132-fc71-4d92-ad26-0f4670e75b53" />
+<img width="649" height="627" alt="image" src="https://github.com/user-attachments/assets/59b43b06-fd6c-42ba-a540-0fd510f2f3e4" />
+<img width="541" height="370" alt="image" src="https://github.com/user-attachments/assets/c659934a-74f4-4c49-9479-fca0942b4d7d" />
+<img width="540" height="374" alt="image" src="https://github.com/user-attachments/assets/d617f74d-854e-4b75-9b92-a90638c98af0" />
+
 
 
 
