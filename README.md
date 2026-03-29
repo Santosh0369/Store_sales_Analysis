@@ -37,7 +37,7 @@ Lack of insights on:
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/bfdb5300-bb9b-412e-b2d6-c4caac529012" />
 
-<img width="443" height="703" alt="image" src="https://github.com/user-attachments/assets/656e90cb-1ef8-4313-b64f-18e7271bcf1a" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/656e90cb-1ef8-4313-b64f-18e7271bcf1a" />
 
 
 
