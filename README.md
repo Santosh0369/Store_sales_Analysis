@@ -28,6 +28,7 @@ Lack of insights on:
 - Improved customer satisfaction
 - Operational efficiency
 
+<img width="863" height="561" alt="image" src="https://github.com/user-attachments/assets/ea46ffba-8ce7-48e3-874a-8bbb7338a3bc" />
 
 
 
