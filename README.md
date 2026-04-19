@@ -60,10 +60,17 @@ The dataset consists of the following key tables/files:
 ## 3. 🧹 Data Cleaning
 
 ### 1. ➿ 	--Step 1:- To check for Duplicate 
-
-* <img width="418" height="297" alt="image" src="https://github.com/user-attachments/assets/83f33850-0c99-48e1-a5c8-ad6505f2df3a" />
+* Check for Duplicates
+ <img width="418" height="297" alt="image" src="https://github.com/user-attachments/assets/83f33850-0c99-48e1-a5c8-ad6505f2df3a" />
 * Deleting Duplicates
-* <img width="747" height="337" alt="image" src="https://github.com/user-attachments/assets/6cd7b895-810a-4cf2-97c2-3086ee595273" />
+ <img width="747" height="337" alt="image" src="https://github.com/user-attachments/assets/6cd7b895-810a-4cf2-97c2-3086ee595273" />
+
+### 2. --Step 2 :- Correction of Headers
+* Checking Column Headers
+ <img width="1148" height="220" alt="image" src="https://github.com/user-attachments/assets/61dd6a07-7623-47a6-8681-6434e27c263e" />
+* After Correction
+ <img width="1122" height="260" alt="image" src="https://github.com/user-attachments/assets/1a3c93b2-2f70-4e45-a96b-9acbbed3bf2f" />
+
 
 
 ## 4. 🔍 Insights Deep Dive
