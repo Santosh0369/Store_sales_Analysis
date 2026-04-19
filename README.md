@@ -97,7 +97,38 @@ The dataset consists of the following key tables/files:
 
 ## 4. 🔍 Insights Deep Dive
 
-### 
+### 1. What are the top 5 best-selling products by quantity?
+<img width="657" height="473" alt="image" src="https://github.com/user-attachments/assets/4fa3778e-8f1e-492e-a4a1-0d2b7651325e" />
+
+### 2. Which products are most frequently cancelled?
+<img width="681" height="445" alt="image" src="https://github.com/user-attachments/assets/530e8727-3d74-49c5-9b4a-9950c59b5159" />
+
+### 3. What time of the day has the highest number of purchases?
+<img width="647" height="478" alt="image" src="https://github.com/user-attachments/assets/70a31a21-b81a-4e54-8872-43f2e12dcc37" />
+
+<img width="559" height="427" alt="image" src="https://github.com/user-attachments/assets/271f9266-8369-457f-8860-df4f46fd3717" />
+
+### 4. Who are the top 5 highest spending customers?
+<img width="570" height="340" alt="image" src="https://github.com/user-attachments/assets/ea94cbfe-d8d0-4d66-9c8a-48f593e03c86" />
+
+### 5. Which product categories generate the highest revenue?
+<img width="588" height="457" alt="image" src="https://github.com/user-attachments/assets/5a6e2b0c-26d8-4e1c-8e98-1722e2cdb0e9" />
+
+### 6. What is the return/cancellation rate per product category?
+<img width="763" height="339" alt="image" src="https://github.com/user-attachments/assets/e02dacc4-c0ee-4169-b348-43c7e9d8bcb2" />
+
+<img width="745" height="420" alt="image" src="https://github.com/user-attachments/assets/982b9b5a-bc8d-4848-81f4-4e263c426740" />
+
+### 7. What is the most preferred payment mode?
+<img width="576" height="345" alt="image" src="https://github.com/user-attachments/assets/ac41bef7-51d2-41d8-abd0-135440b087bb" />
+
+### 8. How does age group affect purchasing behaviour?
+<img width="635" height="497" alt="image" src="https://github.com/user-attachments/assets/0c0a07e2-4709-40bb-804e-9770f08f6d5a" />
+
+### 9. What’s the monthly sales trend?
+<img width="535" height="465" alt="image" src="https://github.com/user-attachments/assets/37939f75-119a-468f-a4ed-5e55924968f3" />
+
+<img width="664" height="616" alt="image" src="https://github.com/user-attachments/assets/b296f3a3-c745-47f0-9ef8-e7dcdbcd821d" />
 
 
 
